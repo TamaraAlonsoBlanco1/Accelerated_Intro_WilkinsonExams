@@ -31,13 +31,9 @@ AT5G11260	hy5-101	Under FRc conditions, the length mutant hypocotyls is increase
 AT5G11510	myb3r4-1	No visible phenotype.	17287251	AT5G11510	MYB3R-4	336	
 AT5G12200	pyd2-2	The pyd2-2 mutant has a wild-type appearance under normal growth conditions. Pyrimidine nucleotide and uridine levels are not changed in the mutant, but uracil levels are increased. These mutants cannot grow normally when uracil is provided as a sole nitrogen source.	19413687	AT5G12200	PYD2	310	
 AT5G13290	crn-1	Increased meristem size. Vegetative meristems are are 30% larger than wild type. After bolting inflorescence meristems are enlarged and occasionally fasciated. Flowers occasionally produce extra organs in the first 3.	12345678	AT5G13290	CRN	189	
- Report of the Genes SKOR and MAA3:
+Solution problem 4.2 report of the Genes SKOR and MAA3:
 AT3G02850 CS3816 The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion. 17568770 AT3G02850 SKOR 234 
- Report of the Genes SKOR and MAA3:
-AT4G15570 maa3 Homozygotes are not recovered. Female gametophyte development is delayed and asynchronous. During fertilization, fusion of polar nuclei does not occur. Polar nuclei nucloeli are smaller than WT. 18772186 AT4G15570 MAA3 294 
- Report of the Genes SKOR and MAA3:
-AT3G02850 CS3816 The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion. 17568770 AT3G02850 SKOR 234 
- Report of the Genes SKOR and MAA3:
+Solution problem 4.2 report of the Genes SKOR and MAA3:
 AT4G15570 maa3 Homozygotes are not recovered. Female gametophyte development is delayed and asynchronous. During fertilization, fusion of polar nuclei does not occur. Polar nuclei nucloeli are smaller than WT. 18772186 AT4G15570 MAA3 294 
 Number of entries Chromosome 1[{'COUNT(*)': 4}]
 Number of entries Chromosome 2[{'COUNT(*)': 4}]
